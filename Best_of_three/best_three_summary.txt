@@ -1,0 +1,35 @@
+TOP 3 MODELS PERFORMANCE SUMMARY
+==================================================
+Generated: 2025-12-12 12:27:59
+Selection Criteria: Test Accuracy
+Total models analyzed: 11
+
+RANKING:
+--------------------
+
+RANK 1: Softmax Regression
+Test Accuracy: 0.8224
+Test F1 Macro: 0.8169
+Test F1 Weighted: 0.8214
+Test Precision Macro: 0.8261
+Test Recall Macro: 0.8126
+Train Accuracy: 1.0000
+
+RANK 2: Stacking Classifier
+Test Accuracy: 0.8107
+Test F1 Macro: 0.8048
+Test F1 Weighted: 0.8095
+Test Precision Macro: 0.8232
+Test Recall Macro: 0.7989
+Train Accuracy: 0.9632
+
+RANK 3: Voting Classifier
+Test Accuracy: 0.8061
+Test F1 Macro: 0.7902
+Test F1 Weighted: 0.8006
+Test Precision Macro: 0.8213
+Test Recall Macro: 0.7854
+Train Accuracy: 0.9684
+
+BEST PERFORMING MODEL: Softmax Regression
+Best Test Accuracy: 0.8224
