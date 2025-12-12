@@ -1,0 +1,13 @@
+OvRLogisticRegression - Test Set Classification Report
+============================================================
+
+              precision    recall  f1-score   support
+
+       False       0.81      0.80      0.81       115
+        True       0.82      0.84      0.83       116
+  Unverified       0.90      0.53      0.67        81
+   Non-rumor       0.70      0.89      0.78       116
+
+    accuracy                           0.79       428
+   macro avg       0.81      0.77      0.77       428
+weighted avg       0.80      0.79      0.78       428

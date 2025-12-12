@@ -1,0 +1,20 @@
+QuadraticDiscriminantAnalysis - Performance Metrics
+==================================================
+
+TRAINING SET METRICS:
+Accuracy: 0.5470
+Precision (Macro): 0.8412
+Precision (Weighted): 0.8281
+Recall (Macro): 0.5339
+Recall (Weighted): 0.5470
+F1-Score (Macro): 0.5467
+F1-Score (Weighted): 0.5468
+
+TEST SET METRICS:
+Accuracy: 0.5280
+Precision (Macro): 0.8358
+Precision (Weighted): 0.8220
+Recall (Macro): 0.5148
+Recall (Weighted): 0.5280
+F1-Score (Macro): 0.5243
+F1-Score (Weighted): 0.5241

@@ -1,0 +1,20 @@
+StackingClassifier - Performance Metrics
+==================================================
+
+TRAINING SET METRICS:
+Accuracy: 0.9632
+Precision (Macro): 0.9651
+Precision (Weighted): 0.9636
+Recall (Macro): 0.9598
+Recall (Weighted): 0.9632
+F1-Score (Macro): 0.9621
+F1-Score (Weighted): 0.9631
+
+TEST SET METRICS:
+Accuracy: 0.8107
+Precision (Macro): 0.8232
+Precision (Weighted): 0.8194
+Recall (Macro): 0.7989
+Recall (Weighted): 0.8107
+F1-Score (Macro): 0.8048
+F1-Score (Weighted): 0.8095

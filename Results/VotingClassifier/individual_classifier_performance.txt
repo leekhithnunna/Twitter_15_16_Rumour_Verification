@@ -1,0 +1,7 @@
+Individual Classifier Performance on Test Set
+==================================================
+
+Multinomial NB Accuracy: 0.7757
+Logistic Regression Accuracy: 0.7967
+LDA Accuracy: 0.6449
+Ensemble Accuracy: 0.8061

@@ -1,0 +1,13 @@
+OvOLogisticRegression - Training Set Classification Report
+============================================================
+
+              precision    recall  f1-score   support
+
+       False       0.97      0.97      0.97       460
+        True       0.93      0.95      0.94       463
+  Unverified       0.99      0.82      0.90       325
+   Non-rumor       0.89      0.98      0.94       463
+
+    accuracy                           0.94      1711
+   macro avg       0.95      0.93      0.94      1711
+weighted avg       0.94      0.94      0.94      1711

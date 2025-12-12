@@ -1,0 +1,20 @@
+BernoulliNB - Performance Metrics
+==================================================
+
+TRAINING SET METRICS:
+Accuracy: 0.9375
+Precision (Macro): 0.9444
+Precision (Weighted): 0.9405
+Recall (Macro): 0.9252
+Recall (Weighted): 0.9375
+F1-Score (Macro): 0.9309
+F1-Score (Weighted): 0.9358
+
+TEST SET METRICS:
+Accuracy: 0.7500
+Precision (Macro): 0.7804
+Precision (Weighted): 0.7687
+Recall (Macro): 0.7280
+Recall (Weighted): 0.7500
+F1-Score (Macro): 0.7323
+F1-Score (Weighted): 0.7421

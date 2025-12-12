@@ -1,0 +1,20 @@
+OvOLogisticRegression - Performance Metrics
+==================================================
+
+TRAINING SET METRICS:
+Accuracy: 0.9410
+Precision (Macro): 0.9478
+Precision (Weighted): 0.9441
+Recall (Macro): 0.9321
+Recall (Weighted): 0.9410
+F1-Score (Macro): 0.9373
+F1-Score (Weighted): 0.9404
+
+TEST SET METRICS:
+Accuracy: 0.7897
+Precision (Macro): 0.8252
+Precision (Weighted): 0.8166
+Recall (Macro): 0.7674
+Recall (Weighted): 0.7897
+F1-Score (Macro): 0.7740
+F1-Score (Weighted): 0.7844

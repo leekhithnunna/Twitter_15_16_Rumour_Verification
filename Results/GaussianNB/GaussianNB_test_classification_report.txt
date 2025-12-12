@@ -1,0 +1,13 @@
+GaussianNB - Test Set Classification Report
+============================================================
+
+              precision    recall  f1-score   support
+
+       False       0.27      0.30      0.29       115
+        True       0.30      0.65      0.41       116
+  Unverified       0.18      0.02      0.04        81
+   Non-rumor       0.31      0.11      0.16       116
+
+    accuracy                           0.29       428
+   macro avg       0.27      0.27      0.23       428
+weighted avg       0.27      0.29      0.24       428

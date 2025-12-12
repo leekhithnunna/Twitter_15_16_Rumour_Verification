@@ -1,0 +1,20 @@
+GaussianNB - Performance Metrics
+==================================================
+
+TRAINING SET METRICS:
+Accuracy: 0.3133
+Precision (Macro): 0.3182
+Precision (Weighted): 0.3206
+Recall (Macro): 0.2930
+Recall (Weighted): 0.3133
+F1-Score (Macro): 0.2536
+F1-Score (Weighted): 0.2682
+
+TEST SET METRICS:
+Accuracy: 0.2921
+Precision (Macro): 0.2669
+Precision (Weighted): 0.2738
+Recall (Macro): 0.2719
+Recall (Weighted): 0.2921
+F1-Score (Macro): 0.2273
+F1-Score (Weighted): 0.2422

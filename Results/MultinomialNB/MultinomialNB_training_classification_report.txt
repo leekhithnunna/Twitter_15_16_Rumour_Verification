@@ -1,0 +1,13 @@
+MultinomialNB - Training Set Classification Report
+============================================================
+
+              precision    recall  f1-score   support
+
+       False       0.97      0.98      0.97       460
+        True       0.92      0.97      0.94       463
+  Unverified       0.99      0.83      0.91       325
+   Non-rumor       0.93      0.98      0.95       463
+
+    accuracy                           0.95      1711
+   macro avg       0.95      0.94      0.94      1711
+weighted avg       0.95      0.95      0.95      1711

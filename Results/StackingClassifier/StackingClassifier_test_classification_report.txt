@@ -1,0 +1,13 @@
+StackingClassifier - Test Set Classification Report
+============================================================
+
+              precision    recall  f1-score   support
+
+       False       0.84      0.80      0.82       115
+        True       0.86      0.84      0.85       116
+  Unverified       0.87      0.65      0.75        81
+   Non-rumor       0.73      0.91      0.81       116
+
+    accuracy                           0.81       428
+   macro avg       0.82      0.80      0.80       428
+weighted avg       0.82      0.81      0.81       428

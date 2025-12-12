@@ -1,0 +1,13 @@
+QuadraticDiscriminantAnalysis - Test Set Classification Report
+============================================================
+
+              precision    recall  f1-score   support
+
+       False       1.00      0.33      0.50       115
+        True       0.98      0.37      0.54       116
+  Unverified       1.00      0.36      0.53        81
+   Non-rumor       0.37      1.00      0.54       116
+
+    accuracy                           0.53       428
+   macro avg       0.84      0.51      0.52       428
+weighted avg       0.82      0.53      0.52       428

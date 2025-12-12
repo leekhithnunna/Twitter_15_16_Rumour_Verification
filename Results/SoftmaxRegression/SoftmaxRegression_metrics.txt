@@ -1,0 +1,20 @@
+SoftmaxRegression - Performance Metrics
+==================================================
+
+TRAINING SET METRICS:
+Accuracy: 1.0000
+Precision (Macro): 1.0000
+Precision (Weighted): 1.0000
+Recall (Macro): 1.0000
+Recall (Weighted): 1.0000
+F1-Score (Macro): 1.0000
+F1-Score (Weighted): 1.0000
+
+TEST SET METRICS:
+Accuracy: 0.8224
+Precision (Macro): 0.8261
+Precision (Weighted): 0.8243
+Recall (Macro): 0.8126
+Recall (Weighted): 0.8224
+F1-Score (Macro): 0.8169
+F1-Score (Weighted): 0.8214

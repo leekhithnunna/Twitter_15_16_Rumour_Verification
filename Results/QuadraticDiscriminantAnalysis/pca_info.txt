@@ -1,0 +1,7 @@
+Quadratic Discriminant Analysis - PCA Information
+==================================================
+
+Original features: 5000
+PCA components: 100
+Explained variance ratio: 0.2551
+Regularization parameter: 0.01

@@ -1,0 +1,20 @@
+VotingClassifier - Performance Metrics
+==================================================
+
+TRAINING SET METRICS:
+Accuracy: 0.9684
+Precision (Macro): 0.9709
+Precision (Weighted): 0.9691
+Recall (Macro): 0.9637
+Recall (Weighted): 0.9684
+F1-Score (Macro): 0.9667
+F1-Score (Weighted): 0.9683
+
+TEST SET METRICS:
+Accuracy: 0.8061
+Precision (Macro): 0.8213
+Precision (Weighted): 0.8167
+Recall (Macro): 0.7854
+Recall (Weighted): 0.8061
+F1-Score (Macro): 0.7902
+F1-Score (Weighted): 0.8006

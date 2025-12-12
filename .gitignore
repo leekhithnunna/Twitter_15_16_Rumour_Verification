@@ -64,9 +64,9 @@ logs/
 ehthumbs.db
 Thumbs.db
 
-# Results and outputs (you might want to include some examples)
-Results/*/
-!Results/README.md
+# Results and outputs - Include all Results folder content
+# Results/*/  # Commented out to include Results folder
+# !Results/README.md
 Best_of_three/*/
 !Best_of_three/*.txt
 !Best_of_three/*.csv

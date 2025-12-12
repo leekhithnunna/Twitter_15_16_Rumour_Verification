@@ -1,0 +1,15 @@
+Gaussian Naive Bayes - Numerical Features Used
+==================================================
+
+Features extracted from tweets:
+1. length: Mean=83.30, Std=22.92
+2. word_count: Mean=14.66, Std=4.22
+3. char_count: Mean=83.30, Std=22.92
+4. exclamation_count: Mean=0.00, Std=0.00
+5. question_count: Mean=0.00, Std=0.00
+6. uppercase_count: Mean=0.00, Std=0.00
+7. digit_count: Mean=0.80, Std=1.86
+8. url_count: Mean=0.00, Std=0.00
+9. mention_count: Mean=0.00, Std=0.00
+10. hashtag_count: Mean=0.00, Std=0.00
+11. avg_word_length: Mean=4.75, Std=0.72

@@ -1,0 +1,16 @@
+Stacking Classifier - Base Learner Performance
+==================================================
+
+Base Learners Used:
+- multinomial_nb
+- logistic_reg
+
+Meta-learner: LogisticRegression
+Cross-validation folds: 5
+Stack method: predict_proba
+
+Test Set Performance:
+------------------------------
+multinomial_nb: 0.7757
+logistic_reg: 0.7967
+Stacking Ensemble: 0.8107

@@ -1,0 +1,20 @@
+OvRLogisticRegression - Performance Metrics
+==================================================
+
+TRAINING SET METRICS:
+Accuracy: 0.9515
+Precision (Macro): 0.9557
+Precision (Weighted): 0.9529
+Recall (Macro): 0.9451
+Recall (Weighted): 0.9515
+F1-Score (Macro): 0.9491
+F1-Score (Weighted): 0.9512
+
+TEST SET METRICS:
+Accuracy: 0.7850
+Precision (Macro): 0.8074
+Precision (Weighted): 0.8001
+Recall (Macro): 0.7659
+Recall (Weighted): 0.7850
+F1-Score (Macro): 0.7720
+F1-Score (Weighted): 0.7805

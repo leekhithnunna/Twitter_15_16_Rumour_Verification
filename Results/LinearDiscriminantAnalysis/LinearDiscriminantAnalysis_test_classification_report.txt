@@ -1,0 +1,13 @@
+LinearDiscriminantAnalysis - Test Set Classification Report
+============================================================
+
+              precision    recall  f1-score   support
+
+       False       0.64      0.66      0.65       115
+        True       0.79      0.67      0.73       116
+  Unverified       0.73      0.63      0.68        81
+   Non-rumor       0.50      0.61      0.55       116
+
+    accuracy                           0.64       428
+   macro avg       0.67      0.64      0.65       428
+weighted avg       0.66      0.64      0.65       428

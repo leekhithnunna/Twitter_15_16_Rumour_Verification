@@ -1,0 +1,13 @@
+BernoulliNB - Test Set Classification Report
+============================================================
+
+              precision    recall  f1-score   support
+
+       False       0.72      0.81      0.76       115
+        True       0.74      0.86      0.79       116
+  Unverified       0.93      0.46      0.61        81
+   Non-rumor       0.75      0.78      0.76       116
+
+    accuracy                           0.75       428
+   macro avg       0.78      0.73      0.73       428
+weighted avg       0.77      0.75      0.74       428

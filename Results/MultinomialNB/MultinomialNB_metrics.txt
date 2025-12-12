@@ -1,0 +1,20 @@
+MultinomialNB - Performance Metrics
+==================================================
+
+TRAINING SET METRICS:
+Accuracy: 0.9468
+Precision (Macro): 0.9522
+Precision (Weighted): 0.9489
+Recall (Macro): 0.9384
+Recall (Weighted): 0.9468
+F1-Score (Macro): 0.9433
+F1-Score (Weighted): 0.9462
+
+TEST SET METRICS:
+Accuracy: 0.7757
+Precision (Macro): 0.7997
+Precision (Weighted): 0.7918
+Recall (Macro): 0.7572
+Recall (Weighted): 0.7757
+F1-Score (Macro): 0.7637
+F1-Score (Weighted): 0.7716

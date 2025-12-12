@@ -1,0 +1,20 @@
+MultinomialLogisticRegression - Performance Metrics
+==================================================
+
+TRAINING SET METRICS:
+Accuracy: 0.9649
+Precision (Macro): 0.9679
+Precision (Weighted): 0.9658
+Recall (Macro): 0.9605
+Recall (Weighted): 0.9649
+F1-Score (Macro): 0.9635
+F1-Score (Weighted): 0.9648
+
+TEST SET METRICS:
+Accuracy: 0.7967
+Precision (Macro): 0.8177
+Precision (Weighted): 0.8114
+Recall (Macro): 0.7767
+Recall (Weighted): 0.7967
+F1-Score (Macro): 0.7824
+F1-Score (Weighted): 0.7918

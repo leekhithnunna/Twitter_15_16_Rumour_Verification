@@ -1,0 +1,13 @@
+GaussianNB - Training Set Classification Report
+============================================================
+
+              precision    recall  f1-score   support
+
+       False       0.34      0.40      0.37       460
+        True       0.29      0.61      0.40       463
+  Unverified       0.29      0.04      0.07       325
+   Non-rumor       0.35      0.12      0.18       463
+
+    accuracy                           0.31      1711
+   macro avg       0.32      0.29      0.25      1711
+weighted avg       0.32      0.31      0.27      1711
